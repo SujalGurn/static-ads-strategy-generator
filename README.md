@@ -1,0 +1,1 @@
+# static-ads-strategy-generator
